@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Games",
+  "description": "A clean, modern unblocked games portal loading games dynamically from a JSON database with responsive iframes, fullscreen mode, search, and category filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
